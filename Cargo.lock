@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "pixel_rs"
+name = "hello_pixel"
 version = "0.1.0"
